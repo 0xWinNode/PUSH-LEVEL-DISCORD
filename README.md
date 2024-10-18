@@ -1,4 +1,4 @@
-# push-level-discord Intsal di Termux Android
+# Push level Discord Install di Termux Android
 ```
 pkg install git
 ```
@@ -23,4 +23,4 @@ cd push-dc
 ```
 python main.py
 ```
-Created : bgpateng
+# Terima Kasih
